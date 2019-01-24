@@ -1,4 +1,4 @@
-![Alt text](./public/capture.png?raw=true "Capture")
+![Alt text](./public/capture.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
