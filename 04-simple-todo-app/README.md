@@ -1,7 +1,7 @@
 ![Alt text](./public/capture.png)
 
 
-## Exemple 3 ( Utiliser Redux avec React)
+## Exemple 4 ( Faire une Todo très simple )
 
 Pour installer les dépendances:
 
